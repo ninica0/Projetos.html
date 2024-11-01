@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap');
+
+
+body{
+    background-color: rgb(247, 246, 255);
+    /* width: 100%; */
+    
+}
+
+h1{
+    /* depois tentar trocar patra times new roman */
+    /* font-family: "Crimson Text", serif;  */
+    color: rgb(0, 0, 0);
+font-size: 45px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h2{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 45px;
+    font-size: 22px;
+    background-color: rgb(212, 235, 255);
+    height: 30px;
+    margin-left: 400px;
+    margin-right: 400px;
+    
+}
+
+.formacao p{
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    padding-left: 400px;
+    font-size: 18px;
+}
+
+.objetivo p{
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    padding-left: 400px;
+  width: 1090px;
+  font-size: 18px;
+}
+
+.qualificacoes p{
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    padding-left: 400px;
+  width: 1090px;
+  font-size: 18px;
+}
